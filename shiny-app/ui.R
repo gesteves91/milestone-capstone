@@ -61,44 +61,12 @@ shinyUI(
                             br(),
                             br(),
                             img(src = "github.png"),
-                            a(target = "_blank", href = "https://github.com/oraclejavanet/coursera-data-science-capstone/tree/master/shiny-app/",
+                            a(target = "_blank", href = "https://github.com/gesteves91/milestone-capstone/tree/master/shiny-app",
                             "Next Word Predict")),
                         br(),
                         h3("About Me"),
                         br(),
-                        div("My name is Jeffrey M. Hunter and I am a
-                            Senior Database Administrator and Application
-                            Programmer for ",
-                            a(target = "_blank", href = "https://www.dbazone.com/", "The DBA Zone, Inc."),".",
-                            "I am an Oracle Certified Professional, Oracle ACE
-                            and Author with over 25 years of experience working
-                            with Oracle, MySQL, MariaDB, MongoDB and PostgreSQL
-                            database technologies.",
-                            br(),
-                            br(),
-                            "My work includes advanced performance tuning, Java
-                            and PL/SQL programming, developing highly available
-                            database solutions, capacity planning, database
-                            security and physical / logical database design in a
-                            UNIX / Linux server environment.",
-                            br(),
-                            br(),
-                            "My other specialties include mathematics,
-                            developing statistical models, predictive analytics
-                            and statistical data analysis in R, Oracle R
-                            Enterprise, Oracle Data Miner and Python.",
-                            br(),
-                            br(),
-                            "I graduated from Stanislaus State University in
-                            Turlock California with a Bachelor's degree in
-                            Computer Science.",
-                            br(),
-                            br(),
-                            img(src = "linkedin.png"),
-                            a(target = "_blank", href="https://www.linkedin.com/in/oraclejavanet/", "OracleJavaNet"),
-                            br(),
-                            img(src = "twitter.png"),
-                            a(target = "_blank", href="https://twitter.com/oraclejavanet/", "OracleJavaNet"))
+                        div("My name is Geanderson Esteves dos Santos and I am a CS student in Brazil.")
                )
     )
 )
